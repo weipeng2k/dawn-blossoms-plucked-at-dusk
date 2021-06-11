@@ -1,6 +1,6 @@
 # 朝花夕拾（dawn-blossoms-plucked-at-dusk）
 
-![朝花夕拾](https://weipeng2k.github.io/mongodb-guide/resources/readme.jpg)
+![朝花夕拾](https://weipeng2k.github.io/dawn-blossoms-plucked-at-dusk/resources/readme.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《朝花夕拾》，是鲁迅的散文文集，收录了他十篇回忆性散文，意思是**回忆往事，旧事重提**。笔者回顾十多年开发过程中的点点滴滴，也想将其记录下来，一来做好总结与提炼，二来让读者也能从中有些受益。
 

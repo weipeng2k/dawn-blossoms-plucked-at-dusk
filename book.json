@@ -29,12 +29,12 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "mongodb-guide"
+      "shortName": "dawn-blossoms-plucked-at-dusk"
     },
     "github-buttons": {
       "buttons": [{
         "user": "weipeng2k",
-        "repo": "mongodb-guide",
+        "repo": "dawn-blossoms-plucked-at-dusk",
         "type": "star",
         "size": "small",
         "count": true
