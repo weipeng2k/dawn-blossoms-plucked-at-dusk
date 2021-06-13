@@ -20,10 +20,10 @@ script:
 after_script:
   - cd _book
   - git init
-  - git remote add origin https://${REF}
+  - git remote add origin https://${DBPAD_REF}
   - git add .
   - git commit -m "Updated By Travis-CI With Build $TRAVIS_BUILD_NUMBER For Github Pages"
-  - git push --force --quiet "https://${TOKEN}@${REF}" main:gh-pages
+  - git push --force --quiet "https://${TOKEN}@${DBPAD_REF}" main:gh-pages
 
 branches:
   only:
@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - REF=github.com/weipeng2k/dawn-blossoms-plucked-at-dusk.git # 设置 github 地址
+    - DBPAD_REF=github.com/weipeng2k/dawn-blossoms-plucked-at-dusk.git # 设置 github 地址
