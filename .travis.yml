@@ -21,6 +21,7 @@ after_script:
   - cd _book
   - git init
   - git remote add origin https://${DBPAD_REF}
+  - git checkout main
   - git add .
   - git commit -m "Updated By Travis-CI With Build $TRAVIS_BUILD_NUMBER For Github Pages"
   - git push --force --quiet "https://${TOKEN}@${DBPAD_REF}" main:gh-pages
