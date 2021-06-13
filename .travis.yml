@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - DBPAD_REF=github.com/weipeng2k/dawn-blossoms-plucked-at-dusk.git # 设置 github 地址
+    - DBPAD_REF=github.com/weipeng2k/dawn-blossoms-plucked-at-dusk.git
