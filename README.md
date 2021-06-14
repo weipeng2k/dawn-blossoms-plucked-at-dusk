@@ -1,8 +1,10 @@
 # 朝花夕拾（dawn-blossoms-plucked-at-dusk）
 
-![朝花夕拾](https://weipeng2k.github.io/dawn-blossoms-plucked-at-dusk/resources/readme.jpg)
+<center>
+<img src="https://weipeng2k.github.io/dawn-blossoms-plucked-at-dusk/resources/readme.jpg" />
+</center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《朝花夕拾》，是鲁迅的散文文集，收录了他十篇回忆性散文，意思是**回忆往事，旧事重提**。笔者回顾十多年开发过程中的点点滴滴，也想将其记录下来，一来做好总结与提炼，二来让读者也能从中有些受益。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《朝花夕拾》，是鲁迅先生的散文文集，收录了他十篇回忆性散文，意思是**回忆往事，旧事重提**。笔者回顾十多年开发过程中的点点滴滴，也想将其记录下来，因此借用先生的文集名字，一来做好总结与提炼，二来让读者也能从中有些受益，想必先生不会怪罪。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;回想开发中的点点滴滴是挺耗费精力的，所幸笔者自诩记忆力不错，而且日常有些总结的嗜好，所以还好，想起来就会补充进来。而提炼的过程是有些意思的，要讲清楚这些点滴解决了什么问题，当然也要给出如何解决的模式或者简单的工具。
 
