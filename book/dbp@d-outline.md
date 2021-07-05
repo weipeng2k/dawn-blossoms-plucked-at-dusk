@@ -27,4 +27,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上述经验总结只是简单的介绍了它们用何种方案去解决的哪个问题，但问题本身、解决方案以及好处是什么需要详细的说明。
 
+## 项目结构模块化
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在创建一个应用的codebase时，我们是选择单工程还是多（子）工程，该如何分割，使得项目能让多个开发同学形成共识进入开发，同时具备不错的维护性。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本章节介绍一种实践考证，具备良好维护性和快速上手的项目划分方式，同时给出一个简单的工具，用于微服务（基于SpringBoot）的应用骨架生成。
